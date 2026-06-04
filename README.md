@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/biavieiraa/biavieiraa/main/200.webp)
 # Oi, eu sou Beatriz Vieira!
 
 Sou estudante de **Ciência da Computação na CESAR School**, em Recife, e sou apaixonada por tecnologia e desenvolvimento de software. 
