@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/736x/f0/4a/01/f04a015ac25477fead1d9c2d009e088b.jpg)
+![Banner](blob:https://gemini.google.com/302f7492-2d2c-456a-950b-952de9a78468)
 
 # Oi, eu sou Beatriz Vieira!
 
