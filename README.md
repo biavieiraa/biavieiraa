@@ -1,4 +1,5 @@
-![Banner](blob:https://gemini.google.com/302f7492-2d2c-456a-950b-952de9a78468)
+![Banner](<img width="1709" height="624" alt="image" src="https://github.com/user-attachments/assets/69e6c980-0cd0-4234-b911-9698a1f138f0" />
+)
 
 # Oi, eu sou Beatriz Vieira!
 
