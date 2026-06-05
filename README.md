@@ -7,5 +7,3 @@ Welcome to my profile! I'm a **Computer Science student at Cesar School**, in Re
 
 I'm starting my academic and professional journey, focused on building a solid foundation in programming.
 
-* 💼 **LinkedIn:** [Beatriz Vieira](https://www.linkedin.com/in/bvot/)
-* 📧 **E-mail:** bvot@cesar.school
