@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFqbm14MjIzaWJpMm1vdzhvNDlnMHAxZGF6ZGV6bHcydzdoem9sMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uqe7fb2xV4d68/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, meu nome é <strong>Beatriz Vieira</strong>.<br>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💻 **Python | HTML | CSS | Javascript**
+  💻 <strong>Python | HTML | CSS | Javascript</strong>
 </p>
 
 <p align="left">
