@@ -3,7 +3,7 @@
 </p>
 
 ## Olá, meu nome é **Beatriz Vieira**! 👋
-Sou estudante de Ciência da Computação na Cesar School.
+Sou estudante de Ciência da Computação na Cesar School. Fique à vontade para ver meus projetos!
 
 ---
 
