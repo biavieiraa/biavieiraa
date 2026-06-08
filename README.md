@@ -7,7 +7,6 @@ Sou estudante de Ciência da Computação na Cesar School. Fique à vontade para
 
 ---
 
-### 💻
 **Python | HTML | CSS | Javascript**
 
 ### 💌 Entre em contato comigo:
